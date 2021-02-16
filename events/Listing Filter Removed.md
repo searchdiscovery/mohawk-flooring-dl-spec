@@ -1,5 +1,7 @@
 ## Listing Filter Removed
 
+While viewing a set of onsite search results for products or retailers, if a filter or refinement is removed, this event will be set.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
