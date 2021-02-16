@@ -1,5 +1,7 @@
 ## Video Completed
 
+Set when a visitor completes the viewing of a video.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
