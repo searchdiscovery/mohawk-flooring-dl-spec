@@ -1,5 +1,7 @@
 ## Internal Campaigns Displayed
 
+The site will have various content widgets where their impressions will need to be measured. When such content exists, this event will be set and popualted with an array of such content. Note that "productID" here will be the descriptor or ID associated with the particular content widget.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
