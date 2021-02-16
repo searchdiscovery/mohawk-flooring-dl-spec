@@ -1,5 +1,7 @@
 ## Form Started
 
+Set when a visitor starts a form that is not Contact Us or the Quote form by placing their cursor in a text field or otherwise first interacts with the form
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
