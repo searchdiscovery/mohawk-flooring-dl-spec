@@ -1,5 +1,7 @@
 ## Form Viewed
 
+Set when a visitor views a form that is not Contact Us or the Quote form
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
