@@ -1,5 +1,7 @@
 ## Form Submission Succeeded
 
+Set when a visitor successfully submits a form that is not Contact Us or the Quote form
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
