@@ -25,6 +25,11 @@ appEventData.push({
         "itemPosition": "<itemPosition>"
       }
     ]
+  },
+  "listing": {
+    "listingResults": {
+      "resultsCount": "<resultsCount>"
+    }
   }
 });
 ```

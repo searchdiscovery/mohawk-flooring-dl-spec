@@ -1,12 +1,11 @@
 ![SDI Logo](https://www.searchdiscovery.com/wp-content/uploads/2017/03/SDI-Black.svg)
 
-# DL - Flooring Sites (Pergo/Karastan/Mohawk)
+# DL - Flooring%20Sites%20(Pergo%2FKarastan%2FMohawk)
 
 ## Index of Contents
 
 * [Summary](#Summary)
 * [Beacon Globals Setup](#Beacon-Globals-Setup)
-* [CTA Link Clicked](#CTA-Link-Clicked)
 * [Cart Viewed](#Cart-Viewed)
 * [Checkout Started](#Checkout-Started)
 * [Contact Us Completed](#Contact-Us-Completed)
@@ -29,6 +28,7 @@
 * [Page Load Completed](#Page-Load-Completed)
 * [Page Load Started](#Page-Load-Started)
 * [Product Added to Cart](#Product-Added-to-Cart)
+* [Product Comparison Viewed](#Product-Comparison-Viewed)
 * [Product Listing Displayed](#Product-Listing-Displayed)
 * [Product Listing Item Clicked](#Product-Listing-Item-Clicked)
 * [Product Removed from Cart](#Product-Removed-from-Cart)
