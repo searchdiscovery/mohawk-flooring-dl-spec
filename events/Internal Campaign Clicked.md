@@ -1,5 +1,7 @@
 ## Internal Campaign Clicked
 
+When a content widget is clicked through (if its impression was previously measured) the click of that widget will result in this event being set. Note that "productID" here will be the descriptor or ID associated with the particular content widget.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
