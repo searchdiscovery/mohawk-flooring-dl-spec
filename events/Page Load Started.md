@@ -1,5 +1,7 @@
 ## Page Load Started
 
+Set when a visitor moves to a new page.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
