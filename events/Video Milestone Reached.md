@@ -1,5 +1,7 @@
 ## Video Milestone Reached
 
+Set when a visitor reaches the 25%, 50% and 75% milestone of a video.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
