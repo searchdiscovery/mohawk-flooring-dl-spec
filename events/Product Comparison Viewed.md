@@ -1,5 +1,7 @@
 ## Product Comparison Viewed
 
+Set when a visitor views a product comparison from the PLP or after viewing the results of the flooring quiz. Note that the "productID" here is the production collection name as this is consistent throughout a visitors interactions with products from PLP > PDP > Sample Purchases.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
