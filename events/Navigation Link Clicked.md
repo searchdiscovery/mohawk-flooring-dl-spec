@@ -1,5 +1,7 @@
 ## Navigation Link Clicked
 
+Set when a visitor clicks a primary navigation link in the header of the site.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
