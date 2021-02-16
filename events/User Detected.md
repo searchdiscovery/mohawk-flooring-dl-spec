@@ -1,5 +1,7 @@
 ## User Detected
 
+Set on all page views as the visitor moves through the site.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
