@@ -1,5 +1,7 @@
 ## Listing Filter Added
 
+After an onsite search for a product or a retailer is made and those results are then filtered or refined, this event will be set.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
