@@ -1,5 +1,7 @@
 ## Video Started
 
+Seet when a visitor starts viewing a video.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
