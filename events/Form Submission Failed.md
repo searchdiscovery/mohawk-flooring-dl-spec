@@ -1,5 +1,7 @@
 ## Form Submission Failed
 
+Set when a visitor submits a form that is not Contact Us or the Quote form, and that form failes due to some kind of error
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
