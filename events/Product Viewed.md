@@ -1,5 +1,7 @@
 ## Product Viewed
 
+Set on the view of a product detail page. Note that the "productID" here is the production collection name as this is consistent throughout a visitors interactions with products from PLP > PDP > Sample Purchases.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
