@@ -1,5 +1,7 @@
 ## Social Brand Followed
 
+Set when a visitor clicks one of the social account links that are present in the footer (or other locations) of the site.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
