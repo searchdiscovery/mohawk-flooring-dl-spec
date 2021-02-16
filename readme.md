@@ -1,6 +1,6 @@
 ![SDI Logo](https://www.searchdiscovery.com/wp-content/uploads/2017/03/SDI-Black.svg)
 
-# DL - Flooring%20Sites%20(Pergo%2FKarastan%2FMohawk)
+# DL - Flooring Sites (Pergo/Karastan/Mohawk)
 
 ## Index of Contents
 
