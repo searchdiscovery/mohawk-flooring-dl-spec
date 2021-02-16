@@ -1,5 +1,7 @@
 ## Download Link Clicked
 
+Set on the click of any link that contains a document that can be downloaded (PDF, CSV, XLS, etc.). This will include product warrenty information, etc.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
