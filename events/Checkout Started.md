@@ -1,5 +1,7 @@
 ## Checkout Started
 
+Set when a visitor begins the checkout process (often associated with a "Checkout Button." Note that if a visitor must first authenticate or create an account and is then moved into the checkout process, this event would only be set once they have actually began the checkout process (after any authentication or login process). Note that the "productID" here is the production collection name as this is consistent throughout a visitors interactions with products from PLP > PDP > Sample Purchases.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
