@@ -1,5 +1,7 @@
 ## Location Listing Item Clicked
 
+Set when a visitor clickes either the "Make This My Retailer" option as a part of a dealer listing or if they click through to the dealer's detail page.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
