@@ -1,5 +1,7 @@
 ## User Signed Out
 
+Set whenever a visitor signs out of the site byt their own action.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
