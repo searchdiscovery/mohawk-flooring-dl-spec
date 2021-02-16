@@ -2,45 +2,14 @@
 
 # DL - Flooring Sites (Pergo/Karastan/Mohawk)
 
-## Index of Contents
+## Overview
+This repository contains the necessary specifications to build an event driven data layer.
 
-* [Summary](#Summary)
-* [Beacon Globals Setup](#Beacon-Globals-Setup)
-* [Cart Viewed](#Cart-Viewed)
-* [Checkout Started](#Checkout-Started)
-* [Contact Us Completed](#Contact-Us-Completed)
-* [Contact Us Started](#Contact-Us-Started)
-* [Download Link Clicked](#Download-Link-Clicked)
-* [Exit Link Clicked](#Exit-Link-Clicked)
-* [Form Started](#Form-Started)
-* [Form Submission Failed](#Form-Submission-Failed)
-* [Form Submission Succeeded](#Form-Submission-Succeeded)
-* [Form Viewed](#Form-Viewed)
-* [Internal Campaign Clicked](#Internal-Campaign-Clicked)
-* [Internal Campaigns Displayed](#Internal-Campaigns-Displayed)
-* [Listing Filter Added](#Listing-Filter-Added)
-* [Listing Filter Removed](#Listing-Filter-Removed)
-* [Location Listing Displayed](#Location-Listing-Displayed)
-* [Location Listing Item Clicked](#Location-Listing-Item-Clicked)
-* [Navigation Link Clicked](#Navigation-Link-Clicked)
-* [Onsite Search Performed](#Onsite-Search-Performed)
-* [Order Placed](#Order-Placed)
-* [Page Load Completed](#Page-Load-Completed)
-* [Page Load Started](#Page-Load-Started)
-* [Product Added to Cart](#Product-Added-to-Cart)
-* [Product Comparison Viewed](#Product-Comparison-Viewed)
-* [Product Listing Displayed](#Product-Listing-Displayed)
-* [Product Listing Item Clicked](#Product-Listing-Item-Clicked)
-* [Product Removed from Cart](#Product-Removed-from-Cart)
-* [Product Viewed](#Product-Viewed)
-* [Social Brand Followed](#Social-Brand-Followed)
-* [User Detected](#User-Detected)
-* [User Registered](#User-Registered)
-* [User Signed In](#User-Signed-In)
-* [User Signed Out](#User-Signed-Out)
-* [Video Completed](#Video-Completed)
-* [Video Milestone Reached](#Video-Milestone-Reached)
-* [Video Started](#Video-Started)
+## Data Layer
+Each file inside the [events](/events/) folder corresponds to a single use case or site event that needs to be implemented.
 
-## Summary
+These will be used to share data with the tag management tool of choice and to trigger the corresponding tracking events in the analytics tool of choice.
 
+
+## Questions/Comments
+For any questions or comments, please contact jason.egan@searchdiscovery.com.
