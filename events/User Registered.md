@@ -1,5 +1,7 @@
 ## User Registered
 
+Set upon the successfull creation of a new account by a visitor. This could happen at the top of the site or as a visitor moves through the order sample process.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
