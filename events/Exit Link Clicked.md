@@ -1,5 +1,7 @@
 ## Exit Link Clicked
 
+Set when a visitor clicks a link that takes them to a site that is considered external.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
