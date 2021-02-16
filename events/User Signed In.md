@@ -1,5 +1,7 @@
 ## User Signed In
 
+Set when a visitor successfully authenticates. Not that if a visitor is automaticall signed in upon registration, this event should also be set at that time.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
