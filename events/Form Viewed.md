@@ -1,5 +1,7 @@
 ## Form Viewed
 
+Set when a visitor views a form (not including the Contact Us form). This would include the Quote Request Form (and any others as applicable)
+
 Set when a visitor views a form that is not Contact Us or the Quote form
 
 ## Javascript Code
@@ -19,4 +21,4 @@ appEventData.push({
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |formID|string|Unique identifier of a form. |F-0113, 2543, CU001, PI-0988|||||||
 |formName|string|Plain text form name. Generally used if formID is not obtainable. |Payment Info, Mailing Address, Payment Address, Contact Us|||||||
-|formType|string|Form type used for grouping of similar forms in reports.  |Address, Contact, Comment, Review, Payment|||||||
+|formType|string|Form type used for grouping of similar forms in reports.  |Quote|||||||
