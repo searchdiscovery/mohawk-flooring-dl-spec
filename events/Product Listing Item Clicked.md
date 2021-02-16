@@ -1,5 +1,7 @@
 ## Product Listing Item Clicked
 
+Set whenever a visitor clicks through from a product detail listing for an item to its product detail page. This could be the "Shop" button, the product image, or any other item that sends the visitor to the subsequent product detail page. Note that the "productID" here is the production collection name as this is consistent throughout a visitors interactions with products from PLP > PDP > Sample Purchases.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
