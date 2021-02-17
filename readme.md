@@ -12,7 +12,7 @@ These will be used to share data with the tag management tool of choice and to t
 
 As the data layer is event-based, the order in which the events are fired is critical. In general, events will fire in teh following order:
 
-Beacon Global Setup > Page Load Started > Other Page-level Events (Product Viewed, Product Listing Displayed, etc.) > Page Load Completed
+Page Load Started > Other Page-level Events (Product Viewed, Product Listing Displayed, etc.) > Page Load Completed
 
 Some events such as Product Interactions will be fired as they occur, where the above order is not needed as the view of a new page is not occuring.
 
