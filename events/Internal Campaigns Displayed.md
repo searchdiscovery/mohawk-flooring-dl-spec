@@ -1,6 +1,9 @@
 ## Internal Campaigns Displayed
 
-The site will have various content widgets where their impressions will need to be measured. When such content exists, this event will be set and popualted with an array of such content. Note that "productID" here will be the descriptor or ID associated with the particular content widget.
+"The site will have various content widgets where their impressions will need to be measured. When such content exists, this event will be set and popualted with an array of such content. Note that ""productID"" here will be the descriptor or ID associated with the particular content widget.
+
+- Campaign Creative: Will be populated with the name/descriptor of the content widget
+- Campaign Position: Will be populated with the descriptor of the position of the content on the page"
 
 ## Javascript Code
 ```js
