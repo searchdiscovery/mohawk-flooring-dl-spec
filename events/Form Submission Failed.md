@@ -12,7 +12,12 @@ appEventData.push({
     "formID": "<formID>",
     "formName": "<formName>",
     "formType": "<formType>"
-  }
+  },
+  "locationList": [
+    {
+      "locationName": "<locationName>"
+    }
+  ]
 });
 ```
 
@@ -22,3 +27,4 @@ appEventData.push({
 |formID|string|Unique identifier of a form. |F-0113, 2543, CU001, PI-0988|||||||
 |formName|string|Plain text form name. Generally used if formID is not obtainable. |Payment Info, Mailing Address, Payment Address, Contact Us|||||||
 |formType|string|Form type used for grouping of similar forms in reports.  |Address, Contact, Comment, Review, Payment|||||||
+|locationName|string|The friendly name of the location.|Deerefiled Outlet, Old Orchard, Manhatten Midtown|||||||
