@@ -1,5 +1,7 @@
 ## Quiz Completed
 
+Set when a visitor successfully completes the flooring quiz.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
