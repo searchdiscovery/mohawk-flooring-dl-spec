@@ -1,6 +1,9 @@
 ## Internal Campaign Clicked
 
-When a content widget is clicked through (if its impression was previously measured) the click of that widget will result in this event being set. Note that "productID" here will be the descriptor or ID associated with the particular content widget.
+"When a content widget is clicked through (if its impression was previously measured) the click of that widget will result in this event being set. Note that "productID" here will be the descriptor or ID associated with the particular content widget.
+
+- Campaign Creative: Will be populated with the name/descriptor of the content widget
+- Campaign Position: Will be populated with the descriptor of the position of the content on the page"
 
 ## Javascript Code
 ```js
