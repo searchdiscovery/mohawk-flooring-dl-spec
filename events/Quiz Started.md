@@ -1,5 +1,7 @@
 ## Quiz Started
 
+Set when a visitor starts the flooring quiz by interacting with the quiz for the first time.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
