@@ -1,5 +1,7 @@
 ## Location Detected
 
+As a visitor moves through the site, information about their currently selected location will be stored here. locationDeterminationMethod indicates if a visitor is currently browsing with a selected location or the one that was assigned by Geo IP detection.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];
