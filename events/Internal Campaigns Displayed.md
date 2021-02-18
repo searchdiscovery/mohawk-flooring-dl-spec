@@ -12,7 +12,8 @@ appEventData.push({
       {
         "internalCampaignID": "<internalCampaignID>",
         "internalCampaignCreative": "<internalCampaignCreative>",
-        "internalCampaignName": "<internalCampaignName>"
+        "internalCampaignName": "<internalCampaignName>",
+        "internalCampaignPosition": "<internalCampaignPosition>"
       }
     ]
   }
@@ -24,3 +25,4 @@ appEventData.push({
 |internalCampaignCreative|string|Describes the creative treatment for an internal campaign|Girl with bike, Mountain Top, River Cruise Danube|||||||
 |internalCampaignID|string|Unique Identifier of an internal campaign|2345, 56789, 9876|||||||
 |internalCampaignName|string|The name of the promotion.|Trek bikes for kids, REI Spring Sale 2019, Viking Cruise Fall Specials|||||||
+|internalCampaignPosition|integer|The position of a internal campaign offering within a list of internal campaigns|1, 5, 78, 3||||1|||
