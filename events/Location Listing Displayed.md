@@ -1,6 +1,7 @@
 ## Location Listing Displayed
 
 Set when a visitor views a listing of dealer/retailer locations in any way. This could be after searching for a retailer via the zip code search.
+
 ## Javascript Code
 ```js
 window.appEventData = window.appEventData || [];

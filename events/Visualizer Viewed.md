@@ -16,11 +16,12 @@ appEventData.push({
         "productLine": "<productLine>",
         "trademarkedTechnology": "<trademarkedTechnology>",
         "name": "<name>",
-        "color": "<color>",
-        "sku": "<sku>"
+        "sku": "<sku>",
+        "color": "<color>"
       },
       "price": {
-        "priceTier": "<priceTier>"
+        "priceTier": "<priceTier>",
+        "priceType": "<priceType>"
       }
     }
   ]
@@ -33,6 +34,7 @@ appEventData.push({
 |color|string|Describes the colorway of a product or product variant|Antique Oak, Granite, Black Marble, Knotty Pine|||||||
 |name|string|||||||||
 |priceTier|string|Describes the general pricing tier of a product. (Good, Better, Best)|Good, Better, Best, Bronze, Silver, Gold|||||||
+|priceType|string|Describes the type of price offered using commonly used terms. |1st mark, 2nd mark, 3rd mark, clearance, sale, doorbuster|||||||
 |productID|string|Unique Identifier of a product or offering.  Must match the format of back-end systems if used as a key for import of product meta data. Most often, one level above SKU for products with SKU variants. |155, 65588, 987764448|||||||
 |productLine|string|Describes the product Line of a product. |Laminate Wood, Vinyl, Hardwood, Stone, Ceramic|||||||
 |productVisualization|string|Describes the visualization in which the product is presented. |Kitchen, Great Room, Bathroom, Bedroom, Custom|||||||

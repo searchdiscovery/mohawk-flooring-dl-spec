@@ -1,6 +1,6 @@
 ## Video Started
 
-Seet when a visitor starts viewing a video.
+Set when a visitor starts viewing a video. 
 
 ## Javascript Code
 ```js
