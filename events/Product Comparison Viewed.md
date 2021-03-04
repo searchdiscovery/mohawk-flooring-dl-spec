@@ -14,9 +14,9 @@ appEventData.push({
         "brand": "<brand>",
         "name": "<name>",
         "sku": "<sku>",
+        "color": "<color>",
         "productLine": "<productLine>",
-        "trademarkedTechnology": "<trademarkedTechnology>",
-        "color": "<color>"
+        "trademarkedTechnology": "<trademarkedTechnology>"
       },
       "price": {
         "priceTier": "<priceTier>"
