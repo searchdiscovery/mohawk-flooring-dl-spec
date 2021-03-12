@@ -1,6 +1,6 @@
 ## Form Submission Failed
 
-Set when a visitor submits a form (that is not Contact Us), and that form failes due to some kind of error. This would include the Quote Request Form (and any others as applicable)
+Set when a visitor submits a form (that is not Contact Us), and that form failes due to some kind of error. This would include the Quote Request Form (and any others as applicable such as Product Reviews)
 
 ## Javascript Code
 ```js
