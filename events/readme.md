@@ -30,6 +30,7 @@
 * [Page Load Completed](#Page-Load-Completed)
 * [Page Load Started](#Page-Load-Started)
 * [Product Added to Cart](#Product-Added-to-Cart)
+* [Product Collection Viewed](#Product-Collection-Viewed)
 * [Product Comparison Viewed](#Product-Comparison-Viewed)
 * [Product Interaction Occurred](#Product-Interaction-Occurred)
 * [Product Listing Displayed](#Product-Listing-Displayed)
