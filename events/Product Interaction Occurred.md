@@ -4,6 +4,7 @@ This event is set whenever a visitor interacts with a product. This includes:
 - Changing product attributes on product detail pages
 - Clicks on the different tabs on product detail pages
 - Clicks on the Shop and Get Quote buttons on product detail pages
+- Clicks on color swatches on product listing pages
 - Selecting individual values that are a part of the product visualizer (note that if an interaction here is not applicable to a specfic product that the product array does not need ot be populated, such as from the Discover menu item).
 
 ## Javascript Code
