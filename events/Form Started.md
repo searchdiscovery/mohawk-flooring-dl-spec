@@ -1,6 +1,6 @@
 ## Form Started
 
-Set when a visitor starts a form (that is not Contact Us) by placing their cursor in a text field or otherwise first interacts with the form. This would include the Quote Request Form (and any others as applicable)
+Set when a visitor starts a form (that is not Contact Us) by placing their cursor in a text field or otherwise first interacts with the form. This would include the Quote Request Form (and any others as applicable such as Product Reviews)
 
 ## Javascript Code
 ```js
