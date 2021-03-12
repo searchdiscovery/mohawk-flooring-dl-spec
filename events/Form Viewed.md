@@ -1,6 +1,6 @@
 ## Form Viewed
 
-Set when a visitor views a form (not including the Contact Us form). This would include the Quote Request Form (and any others as applicable).
+Set when a visitor views a form (not including the Contact Us form). This would include the Quote Request Form (and any others as applicable such as Product Reviews)
 
 ## Javascript Code
 ```js
