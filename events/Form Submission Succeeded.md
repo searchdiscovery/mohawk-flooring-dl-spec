@@ -1,6 +1,6 @@
 ## Form Submission Succeeded
 
-Set when a visitor successfully submits a form (that is not Contact Us). This would include the Quote Request Form (and any others as applicable).
+Set when a visitor successfully submits a form (that is not Contact Us). This would include the Quote Request Form (and any others as applicable such as Product Reviews)
 
 ## Javascript Code
 ```js
