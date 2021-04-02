@@ -21,7 +21,7 @@ appEventData.push({
 
 |Field|Type|Description|Examples|Pattern|Min Length|Max Length|Minimum|Maximum|Multiple Of|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|breadCrumbs|unknown|||||||||
+|breadcrumbs|string|A delimited list of hierarchical sections that describe the current page's location within the navigation of the site.|Home>Women>Tops>Sweaters, Mens - Tops - Sweaters - Supmina, Wool, Rayon, Checkout > Order Thank You|||||||
 |pageCategory|string|General category or Site Section of the page. Top level of page hierarchy.|Home, About Us, Shop, Account, Blog, Investors|||||||
 |pageName|string|Describes the page and its content specifically. Here is recommendation. https://docs.google.com/presentation/d/1MBQb6cALPDzFiy2Vd-x8i_x9fA7NY3w3Pir8Ji1EofM/edit?usp=sharing |product - XYZ123, Mens - Tops - Sweaters, Order Confirmation|||||||
 |pageType|string|Describes what purpose the page serves. Often aligns with the CMS template.|Home, Event Detail, Property Detail, Product Listing, Blog Post, Shopping Cart|||||||
