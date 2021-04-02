@@ -9,7 +9,7 @@ appEventData.push({
   "event": "Page Load Started",
   "page": {
     "pageName": "<pageName>",
-    "breadCrumbs": "<breadCrumbs>",
+    "breadcrumbs": "<breadcrumbs>",
     "pageType": "<pageType>",
     "pageCategory": "<pageCategory>",
     "siteName": "<siteName>",
