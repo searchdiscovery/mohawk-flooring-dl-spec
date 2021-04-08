@@ -14,7 +14,7 @@ appEventData.push({
   "onsiteSearch": {
     "keyword": {
       "searchType": "<searchType>",
-      "searchterm": "<searchTerm>"
+      "searchTerm": "<searchTerm>"
       
     }
   },
