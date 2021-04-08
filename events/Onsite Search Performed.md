@@ -13,7 +13,9 @@ appEventData.push({
   "event": "Onsite Search Performed",
   "onsiteSearch": {
     "keyword": {
-      "searchType": "<searchType>"
+      "searchType": "<searchType>",
+      "searchterm": "<searchTerm>"
+      
     }
   },
   "keywordSearch": {
@@ -30,3 +32,4 @@ appEventData.push({
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |fakeProductId|string|Helper node used by AA Product String Builder to set product to location. Set this field with a call to _satellite.getVar("fakeSearchProductId").  With updates to the AA PS extension, this will soon go away.|_satellite.getVar("fakeSearchProductId")|||||||
 |searchType|string|Describes the domain of the search. |products, properties, articles, authors, coupons, publications|||||||
+|searchTerm|string|Describes the search keyword used after auto-correct, auto-complete, or keyword suggestion. |hardwood, cleaning, product care, warranties|||||||
