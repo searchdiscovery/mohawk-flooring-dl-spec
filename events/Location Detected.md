@@ -24,7 +24,7 @@ appEventData.push({
 
 |Field|Type|Description|Example|Pattern|Min Length|Max Length|Minimum|Maximum|Multiple Of|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|locationDeterminationMethod|string|Describes how a location selection was determined.  Was it automatic or customer choice.|Automatic - IP based, Automatic - Device Based, Customer Selected|||||||
+|locationDeterminationMethod|string|Describes how a location selection was determined.  Was it automatic or customer choice.|Automatic - IP Based, Automatic - Device Based, Customer Selected|||||||
 |locationId|string|Unique Identifier of a Location. |155, 65588, 987764448|||||||
 |locationName|string|The friendly name of the location.|Deerefiled Outlet, Old Orchard, Manhatten Midtown|||||||
 |locationType|string|Concatenation of channel and edge tier|speciality~tier value||||||
