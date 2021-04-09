@@ -36,5 +36,5 @@ appEventData.push({
 |listingType|string|The type of results being listed|text, product, location, event, room, product location|||||||
 |locationId|string|Unique Identifier of a Location. |155, 65588, 987764448|||||||
 |locationName|string|The friendly name of the location.|Deerefiled Outlet, Old Orchard, Manhatten Midtown|||||||
-|locationType|string|The type of the location|Retail Store, Lodging, ATM, Banking Branch|||||||
+|locationType|string|Concatenation of channel and edge tier|speciality~tier value||||||
 |resultsCount|integer|The total number of items returned that matched the search criteria. (Integer)|1, 21, 111, 166||||0|||
