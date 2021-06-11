@@ -21,10 +21,11 @@ appEventData.push({
     "onsiteSearch": {
         "keyword": {
             "searchTerm": "<searchTerm>",
+            "searchTermCorrected": "<searchTermCorrected>",
             "searchType": "<searchType>"
         }
     }
-})
+});
 ```
 
 ## Variable Definitions
@@ -33,4 +34,5 @@ appEventData.push({
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |fakeProductId|string|Helper node used by AA Product String Builder to set product to location. Set this field with a call to _satellite.getVar("fakeSearchProductId").  With updates to the AA PS extension, this will soon go away.|_satellite.getVar("fakeSearchProductId")|||||||
 |searchTerm|string|Describes the search keyword used after auto-correct, auto-complete, or keyword suggestion. |bluth, blue, red lobster|||||||
+|searchTermCorrected|string|Describes the search keyword exactly as entered by the user before any auto-correct or auto complete actions take place.  This is the search term that was corrected. |bluth:blu, blue:blu, red lobster:rd lbstr|||||||
 |searchType|string|Describes the domain of the search. |products, properties, articles, authors, coupons, publications|||||||
