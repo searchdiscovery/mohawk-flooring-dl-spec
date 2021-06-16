@@ -5,7 +5,7 @@
 ## Overview
 This repository contains the necessary specifications to build an event driven data layer.
 
-## Adobe Launch Deployment
+## Pergo Adobe Launch Deployment
 The following HTML should be deployed on your site(s), at the top of the "head" tag.
 - **Production**: <script src="//assets.adobedtm.com/13496781d41f/b9bd22ab52ce/launch-f98e549ff183.min.js" async></script>
 - **Staging**: <script src="//assets.adobedtm.com/13496781d41f/b9bd22ab52ce/launch-676fe9c5232d-staging.min.js" async></script>
