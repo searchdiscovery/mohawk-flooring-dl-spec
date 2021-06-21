@@ -1,6 +1,6 @@
 ## Visualizer Viewed
 
-Set when a visitor views the visualizer on a product detail page or via the "Discover" option from the main menu. The "product" array here will only be populated with the visualizer is frist viewed, within a product detail page.
+Set when a visitor views the visualizer on a product detail page or via the "Discover" option from the main menu. The "product" array here will only be populated when the visualizer is frist viewed, within a product detail page.
 
 ## Javascript Code
 ```js
